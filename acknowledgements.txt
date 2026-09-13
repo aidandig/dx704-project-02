@@ -1,0 +1,3 @@
+Time Series Analysis Modeling: I referred to the XGBRegressor time series analysis tutorial by Rob Mulla (https://www.youtube.com/watch?v=vV12dGe_Fho)
+Claude 4.5 Haiku: Prompted how to format datetime back to a string YYYY-MM-DD format using python (https://terriergpt.bu.edu/share/bA5yAd-Gvqjl3IkkvXge0)
+Google Search: Searched how to find the best row combinations using python to find out that itertools.combinations would be useful to solve part 4. (https://www.google.com/search?q=how+to+find+best+row+combinations+python&ie=UTF-8)
